@@ -1,0 +1,866 @@
+{
+  "platform": "chatgpt",
+  "prompt": "What are the best project management tools for small agencies in 2026? Include YouTube video reviews.",
+  "fanout_queries": [
+    "best project management tools for small creative agencies 2026 pricing features comparison Asana ClickUp Monday Teamwork Basecamp",
+    "YouTube project management software review ClickUp vs Asana vs Monday agency workflow"
+  ],
+  "reasoning": [
+    "Searched 29 websites",
+    "Worked for 18s"
+  ],
+  "summary": {
+    "n_queries": 2,
+    "n_sources_total": 48,
+    "n_retrieved": 48,
+    "n_cited": 8,
+    "n_retrieved_not_cited": 40,
+    "n_cited_not_in_retrieved": 0,
+    "n_video": 3
+  },
+  "sources": [
+    {
+      "url": "https://melororium.com/blog/best-project-management-software-agencies-2026",
+      "title": "Best Project Management Software for Agencies 2026 | Melororium",
+      "snippet": null,
+      "domain": "melororium.com",
+      "pub_date": "2026-07-01",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search0"
+      }
+    },
+    {
+      "url": "https://runflowagency.com/blog/clickup-vs-asana-vs-monday-for-agencies",
+      "title": "ClickUp vs Asana vs Monday.com for Agencies (2026) | Runflow",
+      "snippet": null,
+      "domain": "runflowagency.com",
+      "pub_date": "2026-06-01",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search1",
+        "source_label": "Runflow",
+        "pub_timestamp": 1780272000.0,
+        "metadata_label": "June 1, 2026"
+      }
+    },
+    {
+      "url": "https://softoraguide.com/blog/best-project-management-tools-for-agencies-2026/",
+      "title": "Best Project Management Tools for Agencies 2026 | Softora",
+      "snippet": null,
+      "domain": "softoraguide.com",
+      "pub_date": "2026-06-25",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search2"
+      }
+    },
+    {
+      "url": "https://www.stackfyi.com/guides/best-pm-software-agencies-2026",
+      "title": "Best Project Management Software for Agencies 2026 | StackFYI",
+      "snippet": null,
+      "domain": "www.stackfyi.com",
+      "pub_date": "2026-03-26",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search3",
+        "source_label": "StackFYI",
+        "pub_timestamp": 1774483200.0,
+        "metadata_label": "March 26, 2026"
+      }
+    },
+    {
+      "url": "https://clickup.com/learn/topic/project-management/industries/agencies/tools/",
+      "title": "8 Best PM Tools for Agencies in 2026 (Tested)",
+      "snippet": null,
+      "domain": "clickup.com",
+      "pub_date": "2026-05-06",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search4",
+        "source_label": "clickup.com",
+        "pub_timestamp": 1778025600.0,
+        "metadata_label": "May 6, 2026"
+      }
+    },
+    {
+      "url": "https://www.operdrive.com/research/best-project-management-tools-agencies-2026",
+      "title": "Best Project Management Tools for Agencies 2026 — ClickUp vs Notion vs Asana vs Monday | OperDrive",
+      "snippet": null,
+      "domain": "www.operdrive.com",
+      "pub_date": "2026-06-15",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search5"
+      }
+    },
+    {
+      "url": "https://techstackdaily.com/listicle/best-project-management-tools-creative-teams-2026/",
+      "title": "Best Project Management Tools for Creative Teams 2026",
+      "snippet": null,
+      "domain": "techstackdaily.com",
+      "pub_date": "2026-03-23",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search6"
+      }
+    },
+    {
+      "url": "https://www.deelo.ai/blog/best-creative-agency-project-management-2026",
+      "title": "Best Project Management Software for Creative Agencies in 2026 | Deelo Blog",
+      "snippet": null,
+      "domain": "www.deelo.ai",
+      "pub_date": "2026-05-03",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search7"
+      }
+    },
+    {
+      "url": "https://www.causivra.com/insights/asana-vs-clickup-vs-monday",
+      "title": "Asana vs ClickUp vs monday.com: Project Management for Small Teams",
+      "snippet": null,
+      "domain": "www.causivra.com",
+      "pub_date": "2026-09-15",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search8"
+      }
+    },
+    {
+      "url": "https://stackinsider.org/posts/best-pm-for-creative-agencies-review/",
+      "title": "Best PM for creative agencies: what actually works (and what doesn’t)",
+      "snippet": null,
+      "domain": "stackinsider.org",
+      "pub_date": "2026-06-24",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search9",
+        "source_label": "stackinsider.org",
+        "pub_timestamp": 1782259200.0,
+        "metadata_label": "June 24, 2026"
+      }
+    },
+    {
+      "url": "https://entrepreneurbytes.com/resources/best-project-management-tools",
+      "title": "Best Project Management Tools for Startups and Small Teams (2026) | EntrepreneurBytes",
+      "snippet": null,
+      "domain": "entrepreneurbytes.com",
+      "pub_date": "2026-02-06",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search10"
+      }
+    },
+    {
+      "url": "https://corcava.com/blog/asana-vs-monday-vs-clickup-vs-corcava",
+      "title": "Asana vs Monday vs ClickUp vs Corcava for Agencies (2026 Comparison) | Corcava",
+      "snippet": null,
+      "domain": "corcava.com",
+      "pub_date": "2026-03-24",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search11"
+      }
+    },
+    {
+      "url": "https://www.byob.studio/blog/project-management-tools-agencies-asana-monday-clickup",
+      "title": "Best Project Management Tools for Agencies: Asana vs…",
+      "snippet": null,
+      "domain": "www.byob.studio",
+      "pub_date": "2026-02-13",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search14",
+        "source_label": "BYOB",
+        "pub_timestamp": 1770940800.0,
+        "metadata_label": "February 13, 2026"
+      }
+    },
+    {
+      "url": "https://toolradar.com/guides/best-project-management-for-agencies",
+      "title": "Best Project Management for Agencies (2026) | Toolradar",
+      "snippet": null,
+      "domain": "toolradar.com",
+      "pub_date": "2026-09-01",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search13",
+        "source_label": "Toolradar",
+        "pub_timestamp": 1788220800.0,
+        "metadata_label": "September 1, 2026"
+      }
+    },
+    {
+      "url": "https://verdictlane.com/articles/best-project-management-software-for-creative-agencies-under-20-people-in-2026.html",
+      "title": "Best Project Management Software for Small Creative Agencies",
+      "snippet": null,
+      "domain": "verdictlane.com",
+      "pub_date": "2026-06-05",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search15"
+      }
+    },
+    {
+      "url": "https://www.trytrackr.com/blog/clickup-vs-monday-vs-asana-2026",
+      "title": "ClickUp vs Monday.com vs Asana in 2026: The Honest 3-Way Comparison — Trackr Blog | Trackr",
+      "snippet": null,
+      "domain": "www.trytrackr.com",
+      "pub_date": "2026-02-28",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185search16"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2Q7Mb8j6vbk",
+      "title": "What Is The BEST Project Management Software in 2026? Notion vs Asana vs ClickUp vs Monday.com! - YouTube",
+      "snippet": null,
+      "domain": "www.youtube.com",
+      "pub_date": "2024-06-25",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": true,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn729185youtube24",
+        "source_label": "YouTube",
+        "pub_timestamp": 1719273600.0,
+        "metadata_label": "June 25, 2024"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AJOx2FozYz8",
+      "title": "CLICKUP REVIEW - IS IT THE BEST PROJECT MANAGEMENT SOFTWARE? (2026) - YouTube",
+      "snippet": null,
+      "domain": "www.youtube.com",
+      "pub_date": "2026-05-03",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": true,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533youtube32"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Fj-KjdAS3GI",
+      "title": "ClickUp Review: Is It The Best Project Management Software? (2026) - YouTube",
+      "snippet": null,
+      "domain": "www.youtube.com",
+      "pub_date": "2025-12-26",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": true,
+      "is_video": true,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533youtube33",
+        "source_label": "YouTube",
+        "pub_timestamp": 1766707200.0,
+        "metadata_label": "December 26, 2025"
+      }
+    },
+    {
+      "url": "https://creatoracademy.youtube.com/page/course/earn-money?hl=en-GB",
+      "title": "The YouTube Partner Programme overview and eligibility - Computer - YouTube Help",
+      "snippet": null,
+      "domain": "creatoracademy.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search0"
+      }
+    },
+    {
+      "url": "https://gaming.youtube.com/t/terms_paidservice",
+      "title": "YouTube Paid Service Terms of Service",
+      "snippet": null,
+      "domain": "gaming.youtube.com",
+      "pub_date": "2026-02-11",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search1"
+      }
+    },
+    {
+      "url": "https://gaming.youtube.com/t/copyright_notice",
+      "title": "Submit a copyright removal request - YouTube Help",
+      "snippet": null,
+      "domain": "gaming.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search6"
+      }
+    },
+    {
+      "url": "https://cz.youtube.com/t/terms_paidservice",
+      "title": "YouTube Paid Service Terms of Service",
+      "snippet": null,
+      "domain": "cz.youtube.com",
+      "pub_date": "2026-02-11",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search2"
+      }
+    },
+    {
+      "url": "https://research.youtube.com/how-it-works/",
+      "title": "YouTube Research - How It Works",
+      "snippet": null,
+      "domain": "research.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search3"
+      }
+    },
+    {
+      "url": "https://research.youtube.com/",
+      "title": "YouTube Research - Home",
+      "snippet": null,
+      "domain": "research.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search4"
+      }
+    },
+    {
+      "url": "https://research.youtube.com/policies/terms/",
+      "title": "YouTube Research - Program Terms & Conditions",
+      "snippet": null,
+      "domain": "research.youtube.com",
+      "pub_date": "2022-07-11",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search9"
+      }
+    },
+    {
+      "url": "https://research.youtube.com/policies/",
+      "title": "YouTube Research - Policies",
+      "snippet": null,
+      "domain": "research.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search18"
+      }
+    },
+    {
+      "url": "https://help.youtube.com/support/youtube/bin/",
+      "title": "YouTube Help",
+      "snippet": null,
+      "domain": "help.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search5"
+      }
+    },
+    {
+      "url": "https://help.youtube.com/about/unwanted-software-policy.html",
+      "title": "Unwanted Software Policy | Google – Google",
+      "snippet": null,
+      "domain": "help.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search8"
+      }
+    },
+    {
+      "url": "https://help.youtube.com/support/youtube/bin/answer.py?answer=57741&topic=16647",
+      "title": "Share videos and channels - Computer - YouTube Help",
+      "snippet": null,
+      "domain": "help.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search10"
+      }
+    },
+    {
+      "url": "https://help.youtube.com/chrome/ai-innovations/",
+      "title": "AI in Chrome: help right where you need it",
+      "snippet": null,
+      "domain": "help.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search14"
+      }
+    },
+    {
+      "url": "https://pl.youtube.com/t/copyright_notice",
+      "title": "Submit a copyright removal request - YouTube Help",
+      "snippet": null,
+      "domain": "pl.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search7"
+      }
+    },
+    {
+      "url": "https://pl.youtube.com/t/howto_copyright",
+      "title": "Copyright on YouTube - YouTube Help",
+      "snippet": null,
+      "domain": "pl.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search11"
+      }
+    },
+    {
+      "url": "https://tv.youtube.com/learn/nflsundayticket/deals/",
+      "title": "Get NFL Sunday Ticket Now.",
+      "snippet": null,
+      "domain": "tv.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search12"
+      }
+    },
+    {
+      "url": "https://tv.youtube.com/browse/texas-rangers-UCy9Vv_-L_JLXRY5U8yw0mTA",
+      "title": "Watch Texas Rangers online | YouTube TV (Free Trial)",
+      "snippet": null,
+      "domain": "tv.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search15"
+      }
+    },
+    {
+      "url": "https://artists.youtube.com/resources/",
+      "title": "YouTube for Artists - Artist Resources",
+      "snippet": null,
+      "domain": "artists.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search13"
+      }
+    },
+    {
+      "url": "https://br.youtube.com/yt/dev",
+      "title": "YouTube  |  Google for Developers",
+      "snippet": null,
+      "domain": "br.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search16"
+      }
+    },
+    {
+      "url": "https://kids.youtube.com/t/privacynotice",
+      "title": "YouTube Kids Privacy Notice - YouTube",
+      "snippet": null,
+      "domain": "kids.youtube.com",
+      "pub_date": "2026-01-22",
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search17"
+      }
+    },
+    {
+      "url": "https://ru.youtube.com/t/contact_us/",
+      "title": "Contact Us",
+      "snippet": null,
+      "domain": "ru.youtube.com",
+      "pub_date": null,
+      "origin": "metadata.search_result_groups",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "search_result",
+        "ref_id": "turn897533search19"
+      }
+    },
+    {
+      "url": "https://www.taskrhino.ca/blog/clickup-review/",
+      "title": "ClickUp Review 2026: Honest In-Depth Analysis & Features",
+      "snippet": null,
+      "domain": "www.taskrhino.ca",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/a588d0a9-b3f2-5d84-b96a-e7dbc7573701/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/ajFDaR3xFSqzPVtX4aUfJaCKNjE0cY67an1PDGJrvedLbOpl6MXvQRx-7o4LfU8MugLoBKN80bf5Qd_wS2PtlWirB_mtuDaACuqjXWef-8RpE2o9bj6IVNFNK3orXTAtLOLxCcVD3evrm-Dw2WpwSDTrEPSou8-A5davMS9MGeA?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/IhDLDOyxNDHrKHznRnMbzyjIK7Vr4N5HNf17bkJW7PnIqc3qMmYgJU2IqfzLiCBJatpbDtLiH4ToLtJwHlzGNnvDPQLGe5YS9YbILi94CXJmy4xFdhZmSjqz-lpCT9-ubZzBBG-nlRcQIsvn8DaSyQoEPl_3wXUG0qs9BW4SnIccpcG_XWfRoc5BRY_9ndY5?purpose=fullsize",
+        "original_content_url": "https://www.taskrhino.ca/_next/image/?q=75&url=https%3A%2F%2Fwp.taskrhino.ca%2Fwp-content%2Fuploads%2F2024%2F09%2F17-1.png&w=3840",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://www.teamwork.com/teams/accounting-and-financial-services/",
+      "title": "Accounting Project Management Software",
+      "snippet": null,
+      "domain": "www.teamwork.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/339f3929-b005-5464-9db1-8a1b00da4b7e/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/gZM4xtiw5oBjzKWv1I5J_M11RwqHcsP_p2OLcvjK92REKz7a3iGQW80N7FWY04abYuNIHz3g3Xgz_ztUdfA3GMP50DN2IGoRQsubcaWdlctHc1I4qYrwRTAfCT3ydWQytmCCv_dIVDk4013cs_5md3B0yxLiXryf1-DF0jBPwr8?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/Y8ubh-AuOtLKYpE4DQ-QDHZf125hSSH4LtOMaXsgodwk0TCsTlX1_B0RRRI2QAXi_iEHQHapLl2DGnyYdoh5gchKHxL-pJvgrYL-vUP_CbzgKE6VybfRViUqb7T3u59npRVWrqC_5K507UDhOxB6AkJAhWLmGTUn94HHpKVH00KBVDAwSxLoWmxw4u3OkPLh?purpose=fullsize",
+        "original_content_url": "https://a.storyblok.com/f/99519/1840x1446/2d4b17ae93/client-view-2x.png/m/fit-in/1696x1332/filters%3Aformat%28png%29",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://jiraalternatives.com/monday",
+      "title": "Monday.com Review: Visual Work OS for Marketing & Operations | Jira Alternatives",
+      "snippet": null,
+      "domain": "jiraalternatives.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/caeda85d-331b-5956-b5d3-e030ea256046/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/YgF5YastznwPEHAXrhzeXj1-7Y4EkY53OUteFYSeYEM0qz2StXAYdS_aZc9jAryAJKSC3gX_2KFKNwXlfyut9nhi-dwMTMurjXdCTTx4yrgEouxaBwc83fZkvy9rolzFobvq-IMoesCjlJL1KPjDl4EJLTZVp6y8JVk0NUWei1k?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/76NvYecSF06ssUogqo92ldlBp0kbpk_hgvezPK97KNjZsZ3UwqQeEGBDsMXGcEq0Qe1Z60tjx_JOghoppOd40Ca5wV9fHT6K4OeUAHjck9gcZqw0bmf3n4nK_EIBfikbehoXTAQ2U9KTTEhfvX7yOoreYkOZ0zBZztd8pFx71UOVpyBTMt5YWObff0h0jS0W?purpose=fullsize",
+        "original_content_url": "https://jiraalternatives.com/assets/products/monday-interface.png",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://help.asana.com/s/article/portfolios-overview",
+      "title": "Asana portfolios: overview & how to use | Help Center",
+      "snippet": null,
+      "domain": "help.asana.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/6a501449-4b60-543b-91b6-71a191bd9f68/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/uswf7psar8KhFbIyFuqx4iG3cCcvaazQVyuzL9GuleqJt6Ygl0TFbvrRsbXBqncAfxoFHQ8w_nlm4UplrsH4A_wL6xmIYY2nuqFUsZA-cr7BuCOkIX7KLcGwN9mNGtx-lxVF4Q-2FbdVe7fiJ0gVdruvIoj2yGK4sDLIWH0beg4?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/aLHwR9k-OkG_OObqg5dDugap_RIzBz8YQgA1DiPURe85w4UwLlBXbMK72otK0RMWCFsEvDMn-gE2g3tc-CmiwDykI3bUICun55tA3otMrvczD1i2HhiVHJUbF2BEy7hYgVqaIPfP0slLnrPfV8w6Qp_ib5n1bWk9ItajBToM-AbK765om8zGV_FjFBUREsYA?purpose=fullsize",
+        "original_content_url": "https://assets.asana.biz/m/18995d10f796b7bf/original/productui-helpcenter-portfolios-portfolios-overview-007-en-us-png.png",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://updates.37signals.com/post/design-refresh-multiple-tools-and-plenty-more",
+      "title": "NEW: Design refresh, multiple tools, and plenty more — 37signals",
+      "snippet": null,
+      "domain": "updates.37signals.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/eac36d13-dd19-5522-8e8e-ff2ed1602705/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/RylRagDx90QVDl-nV_oAGVM4vP-0JkhsVHRE6NvkiOW5yMn9jNcvNcor4TxFf45vQYD7hAoDpou4RvXoHL-p7aoQOV6ssbZgoYhQl1I7SuYnaxx_zOAjtsTkXxq2L_vvnvFtg_eiw33-HLAA2wt1IoGW2IdjDvLMYPGaD-wW-rM?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/F3ASxUfuwugMt7sAvG4c2oTyLkHkYwWb9Ey4jMqqPMdI5TCGoiQzoX_HFabN2xMXLnMNpdlhGdD4LwdepCpDk9q9MU4HKztljGAcRHT9NOUTxvUOOeFkHfaI2k9_40pwYOtyjZLjuHOLIjOs08qkDrLEPzMX7PYHuzTPKZc-ta3U0aTlYo6UNRZY8nBr48D2?purpose=fullsize",
+        "original_content_url": "https://images.squarespace-cdn.com/content/v1/611d570a414d845c2c5f26a6/1629926673886-KWR2F3ZENGHN0STT1GBQ/multi_todos.png",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://www.cloudwards.net/clickup-review/",
+      "title": "ClickUp Review 2026: Pros & Cons, Pricing, Features & Guides",
+      "snippet": null,
+      "domain": "www.cloudwards.net",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/a4e63692-5937-5d73-bfab-3b417068dc56/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/4kX6H6Rbmkspxi-tQR9dMMWwbSsAoIj1tPtotCGtbbKMXFbaDiF0504WCfkArT_mryU8qyp-WN19LfE1dspOzvAoX68rxtpnixF5zwVEQrIM0dBYWPbIXk3Z05BHjEVHbzwvHlLxZdJOtCKv5DrOwqR2D5gQFP82lAmh4DJie0s?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/C4hktuPMRQRLJ8xUKCbbnxcgxWD7BiCkNAbnvwCybjiJWe-a109lCS5jCn4OYdPNfeq1rDd26fezy1HuurLn-bwTETyHABgSvVr0HjJn9eUo54sEajMWbQdSRf84aSxky-K8z8hE7mYT53FyRMdOZHcyNHwv50fb_FKIx1qppWCcTb-RHHtXXrqXvZ75hZSs?purpose=fullsize",
+        "original_content_url": "https://img.youtube.com/vi/4_yl9I3bUB0/maxresdefault.jpg",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://www.ritnerdigital.com/blog/asana-vs-clickup-vs-notion-vs-monday-vs-excel",
+      "title": "Asana vs ClickUp vs Notion vs Monday vs Excel: Best Project Management Tool for Marketing Teams — Ritner Digital | AI Search & SEO Agency",
+      "snippet": null,
+      "domain": "www.ritnerdigital.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/5119788c-1d78-53c4-8c97-c032929b9315/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/Dsxpl9DO6bGBliJDqqqLvZ1IH3LTQ4A4o5M3pYauelpCZBhlMzzqCul13KEsVxZWYiYU0iF2IioU3mQY2D8RZ_wcFiTZqwz56pLm_AX9DqYjO9_yRaVq9xVrkZ9t85goq-fvd627-jwP2GspkLP46nF2blybTOJqQv-hDnzS_3A?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/FDnzgdXP2ELHGXNuxbfMIeIHNRknMx8DPFL_qWZV_EeRc9GJOHu1xQ4dRz3x5atmOLlojtMz1P3UMEj928QMNoR_GdM5mSU8O232R6v-lEg-Vy0b8JCCWatL4h37Eb41YjJE_s2Ka3fka4I4XSPWLI9azAnl0fR3xstUCslQU6eg6b9OmKnIy-hqUrSUGnv_?purpose=fullsize",
+        "original_content_url": "https://images.squarespace-cdn.com/content/v1/6972a4fdef275f3494a73f07/1769876090588-9O72HKV0RHEU14YJ2D8S/Project%2Bmanagement%2Btools%2Bcomparison%2Bon%2Bdesk.png",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://www.teamwork.com/blog/introducing-clients-view/",
+      "title": "Introducing Clients View: The one place to oversee your clients and their projects",
+      "snippet": null,
+      "domain": "www.teamwork.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/c189f3c2-2d9a-5755-b42c-a953495500b9/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/NxMh9mmvmePV4m9kyPPHRE_dj9T-EcJ3BDQUDRsjY9nosivD7kQ5CTYMc8sMRQsXtxaBI3nXHpR0Rx1APibLiIDh4_UCSjDT01GtSLT7nNWsIdEUSWdjrdKXQCp2jLmFtrzAChwJNRGRBk4IPkI_lIhBDRvGZIRELZ5atsFZ0DU?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/qfMDE59i4QXz-oiszwZSPW07gBGak64tBlaNFW5FM-rizYHUmx-myrSgaZcNuJFyFc72_tfz51eumKtgtErEcNnIHH1s6Q9Isqu86hdazEmxU8G406w4A8PVFw9CpgpYQGDqPymo8V3T1T3fkRGzMF0JZFV55zrJWCormJVxHiIF7bduY641UdqQBZIk3Pb1?purpose=fullsize",
+        "original_content_url": "https://embed-ssl.wistia.com/deliveries/14c2b6f53e7b88b943bb6c002fa2acb8.webp?image_crop_resized=1920x1080",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    },
+    {
+      "url": "https://support.monday.com/hc/en-us/articles/23921675672466-Portfolio-management-All-Projects-Dashboard",
+      "title": "Portfolio management - All Projects Dashboard – Support",
+      "snippet": null,
+      "domain": "support.monday.com",
+      "pub_date": null,
+      "origin": "/metadata/model_dil_v2/appData/opGenui/componentResults/205d3d38-6f14-5261-8274-1e5ee3093af0/state/images",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {
+        "thumbnail_url": "https://images.openai.com/static-rsc-4/wvSm0-_M2IFXfmUQWjv4P9Pb_vFNNZy8IEoHIvx5k7TPN7ApSMSjOeYP9FopMo1uNRNZrmc08r10coxbufndrsrHF8atQcgqpPaF8Vd290muYHUYOxfPE4KuLVz4ItU-J7yJ_iwFsSq4xv8LrNQ-cT8kZix-tWU7vpsP7iSxTUA?purpose=inline"
+      },
+      "extra": {
+        "content_url": "https://images.openai.com/static-rsc-4/-5NH-hROEcQXpSQPmMUJv0x7GODAoqXeNRlBaAmeb5yjL6ws1fsUSsHXZKs7cGHwGwKjC6qsKZvaA0-fO7oD8-9_bc-PbX0_EJ1QpOPifoMbrdCVNNuollQzaJIhYGySdgXpxRYlPlDaiOA8sl0RXCUZIj48mjl4S_hb7oB4Rygmeul72nI4kZxZvS769XKO?purpose=fullsize",
+        "original_content_url": "https://support.monday.com/hc/article_attachments/23926470733458",
+        "save_target": "image",
+        "show_url": true,
+        "shop_eligible": false
+      }
+    }
+  ],
+  "answer_text": "# Best Project Management Tools for Small Agencies in 2026\n\nFor a small digital, marketing, social media, or web development agency, I'd shortlist **ClickUp, Teamwork, monday.com, Asana, and Basecamp**. The right choice depends on whether you need to manage multiple clients, assign work to employees, track deadlines, collect client approvals, or monitor billable hours.\n\nThe 2026 comparisons point to three especially strong contenders: ClickUp for flexibility and value, Teamwork for client-service operations, and monday.com for visual workflows. <Cite refs={[\"turn729185search4\",\"turn729185search3\",\"turn729185search13\"]}/>\n\n## 1. Top 5 tools at a glance\n\n<box gap={3}>\n  <row align=start gap={3}>\n    <AsyncImage query=\"ClickUp project management software dashboard tasks views\" aspectRatio=\"4:3\" width=\"124px\"/>\n    <box flex=\"1\" gap={1}>\n      <title size=\"lg\">1. <Entity value=\"ClickUp\" category=\"software\"/></title>\n      <badge color=\"success\">Best overall value</badge>\n      Tasks, docs, dashboards, custom workflows, time tracking and automation in one workspace.\n\n      **Best for:** Small agencies managing many clients and different service types.\n\n      <text color=\"secondary\" size=\"sm\">Pricing reference: Free plan; Unlimited listed at $7/user/month on annual billing in 2026 comparisons. <Cite refs={[\"turn729185search4\",\"turn729185search12\"]}/></text>\n      <text><icon name=\"play-circle\" size=\"sm\" inline/> [Watch YouTube review](https://www.youtube.com/results?search_query=ClickUp+review+2026+agency+project+management)</text>\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"Teamwork.com project management software client projects dashboard\" aspectRatio=\"4:3\" width=\"124px\"/>\n    <box flex=\"1\" gap={1}>\n      <title size=\"lg\">2. <Entity value=\"Teamwork\" category=\"software\"/></title>\n      <badge color=\"success\">Best for client services</badge>\n      Designed for client projects, billable time, workload planning and project profitability workflows.\n\n      **Best for:** Marketing agencies, web development firms and service businesses billing clients by time or project.\n\n      <text color=\"secondary\" size=\"sm\">Pricing reference: Free tier and paid plans; verify current regional pricing and included features. <Cite refs={[\"turn729185search3\",\"turn729185search4\"]}/></text>\n      <text><icon name=\"play-circle\" size=\"sm\" inline/> [Watch YouTube review](https://www.youtube.com/results?search_query=Teamwork.com+review+2026+agency+project+management)</text>\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"monday.com work management software colorful project board dashboard\" aspectRatio=\"4:3\" width=\"124px\"/>\n    <box flex=\"1\" gap={1}>\n      <title size=\"lg\">3. <Entity value=\"monday.com\" category=\"software\"/></title>\n      <badge>Best visual workflow</badge>\n      Colorful boards, timelines, status tracking, dashboards and workflow automation.\n\n      **Best for:** Creative, branding, content and social media agencies that want an easy-to-understand visual workspace.\n\n      <text color=\"secondary\" size=\"sm\">Pricing reference: Free for up to two seats; paid plans and minimum seat requirements affect total cost. <Cite refs={[\"turn729185search4\",\"turn729185search13\"]}/></text>\n      <text><icon name=\"play-circle\" size=\"sm\" inline/> [Watch YouTube review](https://www.youtube.com/results?search_query=monday.com+review+2026+agency+project+management)</text>\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"Asana project management software tasks portfolio timeline dashboard\" aspectRatio=\"4:3\" width=\"124px\"/>\n    <box flex=\"1\" gap={1}>\n      <title size=\"lg\">4. <Entity value=\"Asana\" category=\"software\"/></title>\n      Clean task ownership, deadlines, project dependencies and cross-project reporting.\n\n      **Best for:** Agencies with established processes, multiple teams and clear approval chains.\n\n      **Trade-off:** Some advanced reporting and workload features require higher-tier plans; invoicing is not its core strength. <Cite refs={[\"turn729185search1\",\"turn729185search13\"]}/>\n\n      <text><icon name=\"play-circle\" size=\"sm\" inline/> [Watch YouTube review](https://www.youtube.com/results?search_query=Asana+review+2026+project+management+agency)</text>\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"Basecamp project management software project message board to do list dashboard\" aspectRatio=\"4:3\" width=\"124px\"/>\n    <box flex=\"1\" gap={1}>\n      <title size=\"lg\">5. <Entity value=\"Basecamp\" category=\"software\"/></title>\n      Simple projects, team discussions, to-do lists, schedules and client collaboration.\n\n      **Best for:** Small teams that want less administrative overhead and fewer complicated workflows.\n\n      **Trade-off:** Less suited to detailed resource planning, advanced reporting and native time-based billing. <Cite refs={[\"turn729185search13\",\"turn729185search9\"]}/>\n\n      <text><icon name=\"play-circle\" size=\"sm\" inline/> [Watch YouTube review](https://www.youtube.com/results?search_query=Basecamp+review+2026+project+management)</text>\n    </box>\n  </row>\n</box>\n\n## 2. Detailed comparison for a small agency\n\n| Tool | Ease of use | Client management | Time tracking | Best fit |\n|---|---|---|---|---|\n| ClickUp | Medium | Good, with setup | Built-in | All-round agency |\n| Teamwork | Medium | Strong | Built-in | Client projects and billing |\n| monday.com | Easy | Good | Plan-dependent | Creative workflows |\n| Asana | Easy | Good for task collaboration | Integration-dependent | Structured teams |\n| Basecamp | Very easy | Simple client collaboration | Limited | Small, straightforward teams |\n\nThese are practical fit assessments rather than a standardized benchmark. Features and plan availability vary, so check the current plan details before purchasing. <Cite refs={[\"turn729185search3\",\"turn729185search4\",\"turn729185search13\"]}/>\n\n## 3. YouTube video reviews worth watching\n\nHere are specific videos and comparison resources to help you evaluate the interface, features, pricing and limitations.\n\n<box gap={3}>\n  <row align=start gap={3}>\n    <AsyncImage query=\"ClickUp Review Is It The Best Project Management Software George Vlasyev YouTube thumbnail\" aspectRatio=\"16:9\" width=\"144px\"/>\n    <box flex=\"1\" gap={1}>\n      **ClickUp Review — Is It the Best Project Management Software?**\n\n      <text color=\"secondary\" size=\"sm\">George Vlasyev · Published December 2025</text>\n\n      Covers task management, automations, AI, time tracking, pricing and drawbacks.\n\n      [Watch the video on YouTube](https://www.youtube.com/watch?v=Fj-KjdAS3GI) <Cite refs={[\"turn897533youtube33\"]}/>\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"StartupWise Notion vs Asana vs ClickUp vs Monday project management comparison YouTube thumbnail\" aspectRatio=\"16:9\" width=\"144px\"/>\n    <box flex=\"1\" gap={1}>\n      **Notion vs Asana vs ClickUp vs monday.com**\n\n      <text color=\"secondary\" size=\"sm\">StartupWise · Comparison and walkthrough</text>\n\n      Useful for comparing four interfaces and understanding which workflow style suits your team.\n\n      [Watch the comparison on YouTube](https://www.youtube.com/watch?v=2Q7Mb8j6vbk) <Cite refs={[\"turn729185youtube24\"]}/>\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"Teamwork.com agency project management client portal dashboard software\" aspectRatio=\"16:9\" width=\"144px\"/>\n    <box flex=\"1\" gap={1}>\n      **Teamwork reviews for agencies**\n\n      Look for demonstrations of client access, billable hours, project budgets and workload planning.\n\n      [Find Teamwork reviews on YouTube](https://www.youtube.com/results?search_query=Teamwork.com+agency+project+management+review+2026)\n    </box>\n  </row>\n  <divider color=\"subtle\"/>\n  <row align=start gap={3}>\n    <AsyncImage query=\"monday.com work management review dashboard tutorial\" aspectRatio=\"16:9\" width=\"144px\"/>\n    <box flex=\"1\" gap={1}>\n      **monday.com reviews and tutorials**\n\n      Focus on client boards, campaign calendars, automation and dashboards.\n\n      [Find monday.com reviews on YouTube](https://www.youtube.com/results?search_query=monday.com+review+2026+agency+workflow)\n    </box>\n  </row>\n</box>\n\nNote: The links to Teamwork and monday.com are YouTube search results, not claims that a specific independently verified review was found. Some video reviews use affiliate links, so treat their recommendations as one input rather than the final verdict.\n\n## 4. Which one should you choose?\n\n<box border radius=\"xl\" padding={3} gap={3}>\n  <title size=\"lg\">Choose based on your agency's workflow</title>\n  {@body const [agencyType,setAgencyType] = DIL.useState(\"Social media / marketing\")}\n  {@body const [teamSize,setTeamSize] = DIL.useState(\"3–10 people\")}\n  {@body const [priority,setPriority] = DIL.useState(\"Manage multiple clients\")}\n  {@body const [budget,setBudget] = DIL.useState(\"Free or low cost\")}\n  <text weight=\"medium\" size=\"sm\">What type of agency do you run?</text>\n  <radio-group value={agencyType} onChange={setAgencyType} direction=\"col\">\n    <radio value=\"Social media / marketing\">Social media / marketing</radio>\n    <radio value=\"Web development / software\">Web development / software</radio>\n    <radio value=\"Design / video / creative\">Design / video / creative</radio>\n    <radio value=\"Mixed services\">Mixed services</radio>\n  </radio-group>\n  <divider color=\"subtle\"/>\n  <text weight=\"medium\" size=\"sm\">Team size</text>\n  <radio-group value={teamSize} onChange={setTeamSize} direction=\"col\">\n    <radio value=\"1–2 people\">1–2 people</radio>\n    <radio value=\"3–10 people\">3–10 people</radio>\n    <radio value=\"11–25 people\">11–25 people</radio>\n  </radio-group>\n  <divider color=\"subtle\"/>\n  <text weight=\"medium\" size=\"sm\">Your biggest priority</text>\n  <radio-group value={priority} onChange={setPriority} direction=\"col\">\n    <radio value=\"Manage multiple clients\">Manage multiple clients and projects</radio>\n    <radio value=\"Track employee workload\">Track employee workload and deadlines</radio>\n    <radio value=\"Track billable hours\">Track billable hours and profitability</radio>\n    <radio value=\"Client approvals\">Client feedback and approvals</radio>\n  </radio-group>\n  <divider color=\"subtle\"/>\n  <text weight=\"medium\" size=\"sm\">Monthly budget</text>\n  <radio-group value={budget} onChange={setBudget} direction=\"col\">\n    <radio value=\"Free or low cost\">Free or low cost</radio>\n    <radio value=\"Moderate paid budget\">Moderate paid budget</radio>\n    <radio value=\"Premium if worthwhile\">Premium if worthwhile</radio>\n  </radio-group>\n  <button block onClick={() => GenUI.issueNewTurn(\"Recommend the best 2026 project management tool for my small agency. Agency type: \"+agencyType+\". Team size: \"+teamSize+\". Main priority: \"+priority+\". Budget: \"+budget+\". Compare suitable tools, current pricing, client management features, and YouTube video reviews.\")}>Get my recommendation</button>\n</box>\n\n**My starting recommendation:** Test ClickUp and Teamwork first if you manage several client accounts and need visibility into tasks, deliverables and deadlines. Choose monday.com instead if visual campaign boards and quick team adoption matter more than having everything in one workspace.\n\nBefore committing, create one sample client project in each shortlisted tool and test task assignment, recurring work, overdue alerts, client access and reporting. That short trial will tell you more than a feature checklist alone.",
+  "notes": [
+    "7 links in the answer were NOT in the retrieved set (e.g. generated YouTube search URLs): https://www.youtube.com/results?search_query=ClickUp+review+2026+agency+project+management, https://www.youtube.com/results?search_query=Teamwork.com+review+2026+agency+project+management, https://www.youtube.com/results?search_query=monday.com+review+2026+agency+project+management, https://www.youtube.com/results?search_query=Asana+review+2026+project+management+agency, https://www.youtube.com/results?search_query=Basecamp+review+2026+project+management, https://www.youtube.com/results?search_query=Teamwork.com+agency+project+management+review+2026",
+    "8 distinct citation refs in answer, 8 resolved to retrieved entries",
+    "source: GET conversation JSON (flat 'messages' list, 11 messages)"
+  ]
+}

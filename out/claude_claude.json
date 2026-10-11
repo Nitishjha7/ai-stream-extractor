@@ -1,0 +1,782 @@
+{
+  "platform": "claude",
+  "prompt": null,
+  "fanout_queries": [
+    "best project management tools for small agencies 2026",
+    "youtube best project management software for agencies ClickUp Asana monday.com review",
+    "youtube.com project management software for agencies review video",
+    "youtube ClickUp vs Asana vs monday.com 2026 agency"
+  ],
+  "reasoning": [
+    "Checking how outdated the available video results are.",
+    "Summarizing sourced details while flagging prices to double-check."
+  ],
+  "summary": {
+    "n_queries": 4,
+    "n_sources_total": 38,
+    "n_retrieved": 38,
+    "n_cited": 8,
+    "n_retrieved_not_cited": 30,
+    "n_cited_not_in_retrieved": 0,
+    "n_video": 3
+  },
+  "sources": [
+    {
+      "url": "https://www.lilachbullock.com/best-project-management-tools-for-small-teams-compared/",
+      "title": "Asset 20 8 2",
+      "snippet": null,
+      "domain": "www.lilachbullock.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "lilachbullock.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=lilachbullock.com",
+        "site_name": "lilachbullock",
+        "uuid": "4400c384-d265-42ec-adef-8a31ae760b56",
+        "origin_tool_name": "web_search",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=lilachbullock.com",
+        "source": "lilachbullock"
+      }
+    },
+    {
+      "url": "https://agiled.app/blog/best-project-management-software-for-agencies",
+      "title": "Best Project Management Software for Agencies: 14 Tools Ranked for 2026",
+      "snippet": null,
+      "domain": "agiled.app",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "agiled.app",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=agiled.app",
+        "site_name": "agiled",
+        "uuid": "85976e2b-9ebd-4265-ac2c-8bc05647ea85",
+        "origin_tool_name": "web_search",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=agiled.app",
+        "source": "agiled"
+      }
+    },
+    {
+      "url": "https://www.clinked.com/blog/best-project-management-tools-in-2026-12-platforms-compared",
+      "title": "best project management tools in 2026 12 platforms compared",
+      "snippet": null,
+      "domain": "www.clinked.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "clinked.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=clinked.com",
+        "site_name": "clinked",
+        "uuid": "0bd17bc0-bf46-458e-9470-e1050aed65b4",
+        "origin_tool_name": "web_search",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=clinked.com",
+        "source": "clinked"
+      }
+    },
+    {
+      "url": "https://www.serif.ai/guides/project-management-for-agencies",
+      "title": "Start Free Trial",
+      "snippet": null,
+      "domain": "www.serif.ai",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "serif.ai",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=serif.ai",
+        "site_name": "serif"
+      }
+    },
+    {
+      "url": "https://toggl.com/blog/project-management-software-for-agencies",
+      "title": "project management software for agencies",
+      "snippet": null,
+      "domain": "toggl.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "toggl.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=toggl.com",
+        "site_name": "toggl"
+      }
+    },
+    {
+      "url": "https://saasradar.it.com/project-management-tools.html",
+      "title": "Top 10 Project Management Tools for Small Teams in 2026",
+      "snippet": null,
+      "domain": "saasradar.it.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "it.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=it.com",
+        "site_name": "it"
+      }
+    },
+    {
+      "url": "https://costbench.com/best/project-management-for-agencies/",
+      "title": "Best Project Management for Agencies 2026: Top 7 Ranked",
+      "snippet": null,
+      "domain": "costbench.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "costbench.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=costbench.com",
+        "site_name": "costbench"
+      }
+    },
+    {
+      "url": "https://www.parse.gl/prompts/p/which-project-management-tools-should-i-be-using-for-my-agency--57d952bd-af9f-4ecd-94ff-57538b78dba3",
+      "title": "Data as of Apr 25, 2026 · Based on 80 AI responses from ChatGPT and Google AI Overviews · See how Parse measures this",
+      "snippet": null,
+      "domain": "www.parse.gl",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "parse.gl",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=parse.gl",
+        "site_name": "parse"
+      }
+    },
+    {
+      "url": "https://toolradar.com/guides/best-project-management-for-agencies",
+      "title": "best project management for agencies",
+      "snippet": null,
+      "domain": "toolradar.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "toolradar.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=toolradar.com",
+        "site_name": "toolradar",
+        "uuid": "a16adf39-0fd0-4853-8d6e-462a590b15a6",
+        "origin_tool_name": "web_search",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=toolradar.com",
+        "source": "toolradar"
+      }
+    },
+    {
+      "url": "https://peerpush.com/best/for/agencies/uc/project-management",
+      "title": "Best project management tools for agencies in 2026",
+      "snippet": null,
+      "domain": "peerpush.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "peerpush.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=peerpush.com",
+        "site_name": "peerpush"
+      }
+    },
+    {
+      "url": "https://clickup.com/learn/topic/project-management/industries/agencies/tools/",
+      "title": "Best Project Management Software for Agencies in 2026",
+      "snippet": null,
+      "domain": "clickup.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "clickup.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=clickup.com",
+        "site_name": "clickup",
+        "uuid": "5dde3ba3-1013-4ab3-8ffb-219998ff2c4c",
+        "origin_tool_name": "web_search",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=clickup.com",
+        "source": "clickup"
+      }
+    },
+    {
+      "url": "https://clickup.com/learn/?p=70735",
+      "title": "Best Project Management Software for Agencies in 2026",
+      "snippet": null,
+      "domain": "clickup.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "clickup.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=clickup.com",
+        "site_name": "clickup",
+        "uuid": "abf5d19e-cb7a-4bcb-a37f-55d3a13f6467",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=clickup.com",
+        "source": "clickup"
+      }
+    },
+    {
+      "url": "https://www.expertmarket.com/?p=21339",
+      "title": "www.expertmarket.com",
+      "snippet": null,
+      "domain": "www.expertmarket.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "expertmarket.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=expertmarket.com",
+        "site_name": "expertmarket"
+      }
+    },
+    {
+      "url": "https://sevenfigureagency.com/best-project-management-software-for-digital-marketing/",
+      "title": "best project management software for digital marketing",
+      "snippet": null,
+      "domain": "sevenfigureagency.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "sevenfigureagency.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=sevenfigureagency.com",
+        "site_name": "sevenfigureagency"
+      }
+    },
+    {
+      "url": "https://www.expertmarket.com/project-management/best-project-management-software",
+      "title": "best project management software",
+      "snippet": null,
+      "domain": "www.expertmarket.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "expertmarket.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=expertmarket.com",
+        "site_name": "expertmarket"
+      }
+    },
+    {
+      "url": "https://www.expertmarket.com/project-management/best-marketing-project-management-software",
+      "title": "best marketing project management software",
+      "snippet": null,
+      "domain": "www.expertmarket.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "expertmarket.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=expertmarket.com",
+        "site_name": "expertmarket"
+      }
+    },
+    {
+      "url": "https://www.expertmarket.com/?p=21474",
+      "title": "www.expertmarket.com",
+      "snippet": null,
+      "domain": "www.expertmarket.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "expertmarket.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=expertmarket.com",
+        "site_name": "expertmarket"
+      }
+    },
+    {
+      "url": "https://www.capterra.com/p/158833/ClickUp/reviews?page=7",
+      "title": "# Page 7 | ClickUp Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "snippet": null,
+      "domain": "www.capterra.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "capterra.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=capterra.com",
+        "site_name": "capterra"
+      }
+    },
+    {
+      "url": "https://www.voices.com/blog/?p=30573",
+      "title": "www.voices.com",
+      "snippet": null,
+      "domain": "www.voices.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "voices.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=voices.com",
+        "site_name": "voices"
+      }
+    },
+    {
+      "url": "https://project-management.com/project-management-videos-youtube-channels/",
+      "title": "Top YouTube Channels for Project Management Videos",
+      "snippet": null,
+      "domain": "project-management.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "project-management.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=project-management.com",
+        "site_name": "project-management"
+      }
+    },
+    {
+      "url": "https://www.kanbanchi.com/blog/video-production-project-management",
+      "title": "The Best Project Management Software for Video Production",
+      "snippet": null,
+      "domain": "www.kanbanchi.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "kanbanchi.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=kanbanchi.com",
+        "site_name": "kanbanchi"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HoY8WoROwB8",
+      "title": "Project Management for Agencies - A Complete Guide - YouTube",
+      "snippet": null,
+      "domain": "www.youtube.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": true,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "youtube.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=youtube.com",
+        "site_name": "youtube"
+      }
+    },
+    {
+      "url": "https://m.youtube.com/playlist?list=PLpSZ2a1MQYkNx2-4u66jhGnOSJSlbdB6D",
+      "title": "Best Online Project Management Software Reviews",
+      "snippet": null,
+      "domain": "m.youtube.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "youtube.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=youtube.com",
+        "site_name": "youtube"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=riyeUZXPjf4",
+      "title": "5 Best Project Management Software Tools Reviewed - YouTube",
+      "snippet": null,
+      "domain": "www.youtube.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": true,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "youtube.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=youtube.com",
+        "site_name": "youtube"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lXsFIhzkq1o",
+      "title": "Hive In-Depth Review",
+      "snippet": null,
+      "domain": "www.youtube.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": true,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "youtube.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=youtube.com",
+        "site_name": "youtube"
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Workamajig",
+      "title": "Workamajig",
+      "snippet": null,
+      "domain": "en.wikipedia.org",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "wikipedia.org",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.org",
+        "site_name": "Wikipedia"
+      }
+    },
+    {
+      "url": "https://www.onethreadapp.com/blog/best-project-management-software-for-video-creators/",
+      "title": "12 Best Project Management Software for Video Creators in 2025",
+      "snippet": null,
+      "domain": "www.onethreadapp.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "onethreadapp.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=onethreadapp.com",
+        "site_name": "onethreadapp"
+      }
+    },
+    {
+      "url": "https://www.crecso.com/project-management-software-for-video-agencies/",
+      "title": "6 Best Video Management Software (2026 Guide) - CRECSO",
+      "snippet": null,
+      "domain": "www.crecso.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "crecso.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=crecso.com",
+        "site_name": "crecso"
+      }
+    },
+    {
+      "url": "https://wbcomdesigns.com/clickup-vs-asana-vs-monday-com/",
+      "title": "ClickUp vs Asana vs Monday.com: Best in 2026?",
+      "snippet": null,
+      "domain": "wbcomdesigns.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "wbcomdesigns.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=wbcomdesigns.com",
+        "site_name": "wbcomdesigns"
+      }
+    },
+    {
+      "url": "https://productive.io/blog/asana-vs-clickup-vs-monday-vs-productive/",
+      "title": "Asana vs ClickUp vs Monday vs Productive Reviewed (2026)",
+      "snippet": null,
+      "domain": "productive.io",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "productive.io",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=productive.io",
+        "site_name": "productive"
+      }
+    },
+    {
+      "url": "https://monday.com/blog/project-management/clickup-vs-asana-how-they-compare-and-which-to-choose/",
+      "title": "ClickUp Vs Asana (2026): Features, Pricing, And AI Compared",
+      "snippet": null,
+      "domain": "monday.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "monday.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=monday.com",
+        "site_name": "monday"
+      }
+    },
+    {
+      "url": "https://www.ravetree.com/blog/clickup-vs-monday-com-vs-asana-for-creative-agencies",
+      "title": "ClickUp vs. Monday.com vs. Asana: Work Management Systems for Agencies",
+      "snippet": null,
+      "domain": "www.ravetree.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "ravetree.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=ravetree.com",
+        "site_name": "ravetree",
+        "uuid": "9196d057-759f-40c8-b28a-93c6d877cc23",
+        "origin_tool_name": "web_search",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=ravetree.com",
+        "source": "ravetree"
+      }
+    },
+    {
+      "url": "https://itsourcecode.com/business-saas/asana-vs-monday-vs-clickup-2026-which-for-your-team/",
+      "title": "Asana vs monday.com vs ClickUp 2026: Which for Your Team",
+      "snippet": null,
+      "domain": "itsourcecode.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": true,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "itsourcecode.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=itsourcecode.com",
+        "site_name": "itsourcecode",
+        "uuid": "a3d354fd-fc39-4364-bef8-4b8e81659078",
+        "icon_url": "https://www.google.com/s2/favicons?sz=64&domain=itsourcecode.com",
+        "source": "itsourcecode"
+      }
+    },
+    {
+      "url": "https://trackingtime.co/project-management-software/asana-vs-monday-vs-clickup.html",
+      "title": "Asana vs Monday vs ClickUp 2026: How to Choose the Right One",
+      "snippet": null,
+      "domain": "trackingtime.co",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "trackingtime.co",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=trackingtime.co",
+        "site_name": "trackingtime"
+      }
+    },
+    {
+      "url": "https://till-freitag.com/en/blog/clickup-asana-monday-ai-comparison-en",
+      "title": "ClickUp vs Asana vs monday.com",
+      "snippet": null,
+      "domain": "till-freitag.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "till-freitag.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=till-freitag.com",
+        "site_name": "till-freitag"
+      }
+    },
+    {
+      "url": "https://workflowaisuite.com/monday-com-vs-clickup-vs-asana/",
+      "title": "Monday.com vs ClickUp vs Asana: Which Is Best in 2026? - Workflow AI Suite",
+      "snippet": null,
+      "domain": "workflowaisuite.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "workflowaisuite.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=workflowaisuite.com",
+        "site_name": "workflowaisuite"
+      }
+    },
+    {
+      "url": "https://saasprobe.com/compare/clickup-vs-monday-vs-asana/",
+      "title": "ClickUp vs Monday vs Asana: Which Wins? (2026 Verdict)",
+      "snippet": null,
+      "domain": "saasprobe.com",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "saasprobe.com",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=saasprobe.com",
+        "site_name": "saasprobe"
+      }
+    },
+    {
+      "url": "https://www.taskrhino.ca/blog/asana-vs-monday-vs-clickup/",
+      "title": "Asana vs monday vs ClickUp: In-Depth Comparison 2026",
+      "snippet": null,
+      "domain": "www.taskrhino.ca",
+      "pub_date": null,
+      "origin": "tool_result",
+      "retrieved": true,
+      "cited": false,
+      "is_video": false,
+      "video": {},
+      "extra": {
+        "type": "webpage_metadata",
+        "is_missing": false,
+        "site_domain": "taskrhino.ca",
+        "favicon_url": "https://www.google.com/s2/favicons?sz=64&domain=taskrhino.ca",
+        "site_name": "taskrhino"
+      }
+    }
+  ],
+  "answer_text": "Here's what the 2026 roundups agree on, plus the YouTube videos I could find. The videos are weaker than the written sources, and I explain why below.\n\n## Top picks for small agencies\n\n- **ClickUp** is the value pick. It's described as the value leader among mainstream project management tools, and its free plan has unlimited users, with paid plans from $7/user/month. Its flexibility comes with a learning curve. One source puts mastery at 3-6 weeks.\n- **Asana** is the easiest to adopt and the safest paid choice. One roundup calls it the safest paid choice once you have five or more people. Its guests on organization plans aren't charged, which helps with clients. Timesheets and budgets are sold separately.\n- **monday.com** suits visual, dashboard-loving teams, but there are cost catches. It has a three-seat minimum, and seats are sold in multiples of five after that. It's also weaker on time tracking and profitability.\n- **Teamwork.com** is built for billable client work. It's recommended for agencies, consultants and service businesses managing billable projects, and its free plan covers 5 users.\n- **Basecamp** is the simple option, with flat pricing of $15/user/mo or $299/mo flat. It works best for small agencies that want uncomplicated client projects.\n- **Trello** is for tiny teams that just need Kanban. It's best for small teams, content calendars, and lightweight workflows.\n- **Productive** and **Wrike** are specialists. Productive is built for tracking profitability per project and per person. Wrike is for creative and marketing agencies that live in review rounds and need proofing.\n\n**Quick rule of thumb:** go with ClickUp for budget and flexibility, Asana for simplicity and client-sharing, Teamwork or Productive if hourly billing and profitability matter most, and Basecamp or Trello if you want minimal setup.\n\n## YouTube videos\n\nMy searches turned up few recent agency-specific reviews, so treat these as background rather than 2026 verdicts:\n\n- [5 Best Project Management Software Tools Reviewed](https://www.youtube.com/watch?v=riyeUZXPjf4) covers ClickUp, monday.com, Hive, Smartsheet and Asana in timestamped sections. It's roughly four years old, so features and pricing have changed a lot.\n- [Hive In-Depth Review](https://www.youtube.com/watch?v=lXsFIhzkq1o) is from The Digital Project Manager, a channel that tests PM tools. It's about two years old and covers only Hive.\n- [Project Management for Agencies – A Complete Guide](https://www.youtube.com/watch?v=HoY8WoROwB8) isn't a tool review. It walks through the method a marketing agency owner used across more than 3,000 projects, which is useful for deciding how to set up whichever tool you pick. It's about five years old.\n\nFor current video reviews, search YouTube for \"[tool name] review 2026\" and check the upload date, since these tools update their features and pricing often.\n\n## Caveats\n\nPricing differs between sources, for example Asana's starter plan shows at both $10.99 and $13 per user. Several of these roundups are published by vendors (ClickUp's own guide ranks ClickUp first), so confirm current pricing on each vendor's site and run a free trial with a real client project before committing.\n\nIf you tell me your team size and whether you bill hourly, on retainer, or per project, I can narrow this down to one or two.",
+  "notes": [
+    "393 SSE events",
+    "request: /api/organizations/474c68b4-f361-4fb9-adc8-0edc69a61745/chat_conversations/c678441b-45e8-41d4-be2b-411761517a4c/completion"
+  ]
+}
