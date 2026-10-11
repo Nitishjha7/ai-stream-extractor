@@ -1,0 +1,5 @@
+{"result": {"response": {"token": "Looking up tools", "isThinking": true}}}
+{"result": {"response": {"toolUsageCard": {"webSearch": {"query": "best agency project management tools"}}}}}
+{"result": {"response": {"webSearchResults": {"results": [{"url": "https://zapier.com/blog/best-project-management-software/", "title": "Best PM software", "preview": "We tested..."}, {"url": "https://www.capterra.com/project-management-software/", "title": "Capterra PM", "preview": "..."}]}}}}
+{"result": {"response": {"token": "ClickUp is popular."}}}
+{"result": {"response": {"citedWebSearchResults": [{"url": "https://zapier.com/blog/best-project-management-software/", "title": "Best PM software"}]}}}

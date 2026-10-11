@@ -1,0 +1,5 @@
+.profile/
+captures/
+__pycache__/
+out/*
+!out/synthetic/

@@ -1,0 +1,46 @@
+event: delta_encoding
+data: "v1"
+
+event: delta
+data: {"p": "", "o": "add", "c": 0, "v": {"message": {"id": "u1", "author": {"role": "user"}, "content": {"content_type": "text", "parts": ["best project management tools for small agencies"]}, "metadata": {}}}}
+
+event: delta
+data: {"p": "", "o": "add", "c": 1, "v": {"message": {"id": "t1", "author": {"role": "assistant"}, "content": {"content_type": "thoughts", "thoughts": []}, "metadata": {}}}}
+
+event: delta
+data: {"p": "/message/content/thoughts", "o": "append", "c": 1, "v": [{"summary": "Clarifying the agency use case", "content": "User wants tools for small agencies; need client portals, time tracking."}]}
+
+event: delta
+data: {"p": "", "o": "add", "c": 2, "v": {"message": {"id": "q1", "author": {"role": "assistant"}, "recipient": "web.run", "content": {"content_type": "code", "text": ""}, "metadata": {}}}}
+
+event: delta
+data: {"p": "/message/metadata/search_model_queries", "o": "add", "c": 2, "v": {"type": "search_model_queries", "queries": ["best project management tools for small agencies 2026", "agency project management software client portal time tracking", "ClickUp vs Teamwork.com for agencies", "project management tool comparison youtube"]}}
+
+event: delta
+data: {"p": "", "o": "add", "c": 3, "v": {"message": {"id": "a1", "author": {"role": "assistant"}, "recipient": "all", "content": {"content_type": "text", "parts": [""]}, "metadata": {"search_result_groups": []}}}}
+
+event: delta
+data: {"o": "patch", "c": 3, "v": [{"p": "/message/metadata/search_result_groups", "o": "replace", "v": [{"type": "search_result_group", "domain": "zapier.com", "entries": [{"type": "search_result", "url": "https://zapier.com/blog/best-project-management-software/", "title": "The best project management software in 2026", "snippet": "We tested 70+ apps ...", "ref_id": {"turn_index": 0, "ref_type": "search", "ref_index": 0}, "pub_date": 1756000000.0, "attribution": "zapier.com"}]}, {"type": "search_result_group", "domain": "teamwork.com", "entries": [{"type": "search_result", "url": "https://www.teamwork.com/blog/agency-project-management-software/", "title": "Agency project management software", "snippet": "Built for client work ...", "ref_id": {"turn_index": 0, "ref_type": "search", "ref_index": 1}, "pub_date": null, "attribution": "teamwork.com"}]}, {"type": "search_result_group", "domain": "reddit.com", "entries": [{"type": "search_result", "url": "https://www.reddit.com/r/agency/comments/xyz/pm_tool/", "title": "What PM tool does your agency use?", "snippet": "We moved from Asana to ...", "ref_id": {"turn_index": 0, "ref_type": "search", "ref_index": 2}, "attribution": "reddit.com"}]}, {"type": "search_result_group", "domain": "youtube.com", "entries": [{"type": "search_result", "url": "https://www.youtube.com/watch?v=AbC123xyz", "title": "Top 5 Project Management Tools for Agencies (2026)", "snippet": "00:00 Intro\n01:12 ClickUp\n03:40 Teamwork.com\n06:05 Asana ...", "ref_id": {"turn_index": 0, "ref_type": "video", "ref_index": 0}, "pub_date": 1754000000.0, "attribution": "youtube.com", "content_type": "video", "channel_name": "Agency Ops Lab", "subscribers": "48.2K", "is_verified": false, "views": 15234, "likes": 611, "duration": "PT9M31S"}]}]}]}
+
+event: delta
+data: {"p": "/message/content/parts/0", "o": "append", "c": 3, "v": "For a small agency, "}
+
+event: delta
+data: {"v": "**ClickUp** and **Teamwork.com** are the usual shortlist "}
+
+event: delta
+data: {"v": "\ue200cite\ue202turn0search0\ue202turn0search1\ue201. "}
+
+event: delta
+data: {"v": "A good video walkthrough compares them side by side "}
+
+event: delta
+data: {"v": "\ue200cite\ue202turn0video0\ue201."}
+
+event: delta
+data: {"p": "/message/metadata/content_references", "o": "add", "c": 3, "v": [{"matched_text": "\ue200cite\ue202turn0search0\ue202turn0search1\ue201", "type": "grouped_webpages", "items": [{"title": "The best project management software in 2026", "url": "https://zapier.com/blog/best-project-management-software/?utm_source=chatgpt.com", "attribution": "Zapier", "pub_date": 1756000000.0, "supporting_websites": [{"title": "Agency project management software", "url": "https://www.teamwork.com/blog/agency-project-management-software/?utm_source=chatgpt.com"}]}]}, {"matched_text": "\ue200cite\ue202turn0video0\ue201", "type": "video", "url": "https://www.youtube.com/watch?v=AbC123xyz&utm_source=chatgpt.com", "title": "Top 5 Project Management Tools for Agencies (2026)", "channel_name": "Agency Ops Lab", "thumbnail_url": "https://i.ytimg.com/vi/AbC123xyz/hq.jpg"}]}
+
+data: {"type": "message_stream_complete", "conversation_id": "synthetic"}
+
+data: [DONE]
+
