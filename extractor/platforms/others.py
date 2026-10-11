@@ -164,6 +164,10 @@ def parse_claude(text: str) -> Extraction:
                 partial[i] = partial.get(i, "") + dl.get("partial_json", "")
             elif dt == "thinking_delta":
                 thinking[i] = thinking.get(i, "") + dl.get("thinking", "")
+            elif dt == "thinking_summary_delta":  # claude.ai streams short summaries, not raw thinking
+                summ = (dl.get("summary") or {}).get("summary")
+                if summ:
+                    ex.reasoning.append(summ)
             elif dt == "text_delta":
                 answer.append(dl.get("text", ""))
             elif dt in ("citation_start_delta", "citations_delta"):
